@@ -1,2 +1,2 @@
 # quant-stock-signals
-Immutable daily time-stamped public ledger for quantitative stock signals
+Daily time-stamped public repository for quantitative stock signals
